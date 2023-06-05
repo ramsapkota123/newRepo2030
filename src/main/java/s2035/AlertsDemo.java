@@ -61,6 +61,7 @@ public class AlertsDemo {
 		}else {
 			System.out.println("test case fail");
 		}
+		System.out.println("hello");
 		
 		
 		
